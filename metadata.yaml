@@ -1,0 +1,48 @@
+_repo: An-Anatomical-Disquisition-on-the-Motion-of-the-Heart-Blood-in-Animals-The-Circulation-of-the__67065
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Parkyn, E. A.
+    gutenberg_agent_id: '54099'
+    url: http://www.gutenberg.org/2009/agents/54099
+  translator:
+    agent_name: Willis, Robert
+    alias: Willis, R. (Robert)
+    birthdate: 1799
+    deathdate: 1878
+    gutenberg_agent_id: '47774'
+    url: http://www.gutenberg.org/2009/agents/47774
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Willis_(physician)
+creator:
+  author:
+    agent_name: Harvey, William Fryer
+    alias: Harvey, W. F. (William Fryer)
+    birthdate: 1885
+    deathdate: 1937
+    gutenberg_agent_id: '5882'
+    url: http://www.gutenberg.org/2009/agents/5882
+    wikipedia: http://en.wikipedia.org/wiki/W._F._Harvey
+  editor:
+    agent_name: Rhys, Ernst
+    gutenberg_agent_id: '54098'
+    url: http://www.gutenberg.org/2009/agents/54098
+description: ''
+gutenberg_issued: '2022-01-01'
+identifiers:
+  gutenberg: '67065'
+language: en
+pgterms:marc905: 20071031224954harvey
+pgterms:marc906: '1906'
+pgterms:marc907: GB
+production_note: Thiers Halliwell, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United Kingdom :J. M. Dent & Co.,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An Anatomical Disquisition on the Motion of the Heart & Blood in Animals:
+  The Circulation of the Blood'
+url: http://www.gutenberg.org/ebooks/67065
