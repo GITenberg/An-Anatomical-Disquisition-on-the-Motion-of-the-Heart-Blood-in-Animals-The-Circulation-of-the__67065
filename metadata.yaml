@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '47774'
     url: http://www.gutenberg.org/2009/agents/47774
     wikipedia: https://en.wikipedia.org/wiki/Robert_Willis_(physician)
+covers:
+- cover_type: archival
+  image_path: 67065-h/images/cover.jpg
 creator:
   author:
     agent_name: Harvey, William Fryer
@@ -27,6 +30,8 @@ creator:
     gutenberg_agent_id: '54098'
     url: http://www.gutenberg.org/2009/agents/54098
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67065#An-Anatomical-Disquisition-on-the-Motion-of-the-Heart-Blood-in-Animals-The-Circulation-of-the_
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67065'
